@@ -1,0 +1,12 @@
+console.log('');
+console.log('1. Назови 6 типов данных type script.');
+console.log('-----------------------------------------------------------');
+console.log('boolean   - Логическая переменная.');
+console.log('number    - Число.');
+console.log('string    - Строка.');
+console.log('array     - Массив.');
+console.log('object    - Объект.');
+console.log('any       - Переменная любого типа.');
+console.log('enum      - Объект со строковым ключем и числовым значением.');
+console.log('null      - Пустая переменная.');
+console.log('undefined - Неопределенная переменная.');
